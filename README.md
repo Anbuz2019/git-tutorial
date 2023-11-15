@@ -46,3 +46,7 @@
 - `git log --graph`   以图表形式查看分支日志 
 
 
+
+## Rebase 压缩历史
+
+- faeture-C
