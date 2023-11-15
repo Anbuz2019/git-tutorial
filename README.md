@@ -8,4 +8,6 @@
 
 <img src="res\git diff示意图.jpg" alt="image-20231115113156984" style="zoom: 40%;" />
 
-- fix-B
+
+
+- `git reflog`  查看当前仓库执行过的操作日志
