@@ -32,3 +32,4 @@
   - 即使在开发过程中发现了BUG，也需要再创建新的分支，在新分支中修正
   - 合并分支：`git merge` 
 
+- this is a sentance
