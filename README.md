@@ -50,3 +50,17 @@
 ## Rebase 压缩历史
 
 - feature-C
+
+
+
+## 远程git操作
+
+- `git remote add origin /*仓库路径*/`    添加**设置远程仓库** （仓库的标识符设置为“origin”）
+- 下面是推送至远程仓库的命令
+  - `git push -u origin master`    将当前分支推送至master分支 （-u 方便 pull 命令运行）
+  - `git push -u origin <branch name>`    将当前分支推送至 <branch name> 分支
+- 下面是获取远程仓库的命令
+  - `git clone /*仓库路径*/`     克隆远程仓库到本地（只有master分支）
+  - `git checkout -b <branch name> origin/<branch name>`    克隆远程仓库的**某一分支**到本地
+- 其它相关操作
+  - `git branch -a`     查看所有分布（-a：包括远程仓库的分支）
