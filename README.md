@@ -21,6 +21,8 @@
 
 - `git chaeckout -`  切换至上一个分支
 
+- `git reflog`  查看当前仓库执行过的操作日志
+
 
 
 ## 特性分支
@@ -42,6 +44,5 @@
 - `git log --pretty=short`  简略打印日志（只打印第一行）
 - `git log -p`  详细打印文件的具体修改情况
 - `git log --graph`   以图表形式查看分支日志 
-
 
 
