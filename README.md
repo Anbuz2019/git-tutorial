@@ -7,3 +7,5 @@
 - `git diff --cached`       比较**暂存区**和**最新提交**的文件之间的差异
 
 <img src="res\git diff示意图.jpg" alt="image-20231115113156984" style="zoom: 40%;" />
+
+- fix-B
